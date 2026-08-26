@@ -1,0 +1,17 @@
+text,priority
+Garbage not collected,High
+Garbage bin overflowing,High
+Waste collection vehicle not visiting,High
+Waste dumped on roadside,High
+Road pothole,High
+Damaged road,High
+Road repair request,Medium
+Water supply stopped,High
+No water in locality,High
+Pipeline leakage,High
+Low water pressure,Medium
+Street light not working,Medium
+Broken street light,Medium
+Drain blocked,High
+Sewage overflowing,High
+Drain cleaning request,Medium
